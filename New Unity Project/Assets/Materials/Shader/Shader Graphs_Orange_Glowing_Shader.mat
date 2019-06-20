@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_Blue_Glowing_Shader
+  m_Name: Shader Graphs_Orange_Glowing_Shader
   m_Shader: {fileID: 4800000, guid: 4c5ff3ba8c7de664aa1552be238ecce1, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -21,4 +21,4 @@ Material:
     m_TexEnvs: []
     m_Floats: []
     m_Colors:
-    - Color_79EAD179: {r: 0.636408, g: 2.594586, b: 2.06147, a: 0}
+    - Color_79EAD179: {r: 3.463977, g: 1.373007, b: 0, a: 0}
